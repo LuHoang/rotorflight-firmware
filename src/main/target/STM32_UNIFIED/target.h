@@ -385,8 +385,8 @@
 
 #define USE_CMS
 
-//#undef USE_OSD
-//#undef USE_MAX7456
+#define USE_OSD
+#define USE_MAX7456
 #undef USE_RCDEVICE
 #undef USE_VTX_COMMON
 #undef USE_VTX_CONTROL
